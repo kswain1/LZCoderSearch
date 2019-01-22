@@ -36,5 +36,8 @@
     "snapshotSerializers": [
       "enzyme-to-json/serializer"
     ]
-  }
+  },
+  "engines": {
+    "node": "^10.0"
+  }	
 }
